@@ -7,5 +7,5 @@ Sentiment analysis refers to identifying as well as classifying the sentiments t
 I have implemented it using web integration in which user gives the topic which he/she want's to do sentiment analysis on using streamlit.
 
 # Author
-- [Abhishek Shinde](github.com/starxa2)
-- [Sahal Pathan](github.com/sahal56)
+- [Abhishek Shinde](https://github.com/starxa2)
+- [Sahal Pathan](https://github.com/sahal56)
